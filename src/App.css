@@ -80,7 +80,7 @@
 }
 
 .expense-list li button{
-  background: red;
+  background: rgb(255, 58, 58);
   color: white;
   padding: 0.5rem 0.3rem;
   border: none;
